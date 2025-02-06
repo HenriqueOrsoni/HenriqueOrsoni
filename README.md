@@ -30,8 +30,4 @@
 </br>
 </br>
 
-Tenho grande interesse pela área de tecnologia. Sou uma pessoa de fácil aprendizado e, por isso, estou aproveitando ao máximo para adquirir conhecimento nessa área, tanto por meio da faculdade quanto através de cursos online.
-
-<img src="https://raw.githubusercontent.com/HenriqueOrsoni/HenriqueOrsoni/output/snake.svg" alt="Snake animation" />
-
 
