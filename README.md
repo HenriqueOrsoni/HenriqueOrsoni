@@ -25,7 +25,7 @@
 <br/>
 <img text-align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img text-align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img text-align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img text-align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-7B68EE?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </br>
 </br>
