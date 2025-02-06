@@ -1,5 +1,10 @@
-## About me:
-## Studying Systems Analysis and Development
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">Studying Systems Analysis and Development</p>
+
+###
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/henrique-orsoni-54a2a52b8)
 
