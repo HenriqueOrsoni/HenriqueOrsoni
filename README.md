@@ -1,4 +1,4 @@
-### Olá! Eu sou o Henrique Orsoni✨
+### Olá! Eu sou o Henrique Orsoni
 
 <br/>
 
