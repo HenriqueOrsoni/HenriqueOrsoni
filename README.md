@@ -1,8 +1,8 @@
-<h2 align="left">About me:</h2>
+<h2 align="left">About me</h2>
 
 ###
 
-<p align="left">Studying Systems Analysis and Development</p>
+<p align="left">- Studying Systems Analysis and Development</p>
 
 ###
 
