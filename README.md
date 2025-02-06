@@ -36,3 +36,5 @@ Tenho grande interesse pela área de tecnologia. Sou uma pessoa de fácil aprend
 <img src="https://raw.githubusercontent.com/HenriqueOrsoni/HenriqueOrsoni/output/snake.svg" alt="Snake animation" />
 
 ###
+
+###
