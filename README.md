@@ -8,8 +8,10 @@
 
 ### Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=HenriqueOrsoni&show_icons=true&theme=prussian&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=HenriqueOrsoni&layout=compact&langs_count=8&theme=prussian)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HenriqueOrsoni&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HenriqueOrsoni&theme=radical" />
+</div>
 
 ---
 
