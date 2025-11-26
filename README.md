@@ -11,12 +11,8 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/HenriqueOrsoni">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueOrsoni&show_icons=true&theme=prussian&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/HenriqueOrsoni">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=HenriqueOrsoni&layout=compact&langs_count=8&theme=prussian"/>
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HenriqueOrsoni&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=HenriqueOrsoni&layout=compact&langs_count=8&theme=prussian"/>
 </div>
 
 ###
